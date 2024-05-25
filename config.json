@@ -1,5 +1,5 @@
 {
-    "language": "vi",
+    "language": "en",
     "DeveloperMode": true,
     "autoCreateDB": true,
     "allowInbox": false,
@@ -13,10 +13,10 @@
     "EMAIL": "",
     "PASSWORD": "",
     "OTPKEY": "",
-    "BOTNAME": "Bot Messenger",
-    "PREFIX": "?",
+    "BOTNAME": "TAKLU BABU",
+    "PREFIX": ".",
     "ADMINBOT": [
-        "100004253741257"
+        "100058415170590"
     ],
     "APPSTATEPATH": "appstate.json",
     "SETUP_WIN": {
